@@ -1,3 +1,3 @@
 ### Hi there 👋
 - 🔭 Working on improve my skillsW
-- 🌱 Learning React
+- 🌱 Learning React, ReactNative
